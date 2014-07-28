@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<timing>
+            <value>11:40AM-12:55PM</value>
+            <value>4:10PM-5:25PM</value>
+            <value>10:10AM-11:25AM</value>
+            <value>5:40PM-6:55PM</value>
+            <value>1:10PM-2:25PM</value>
+            <value>5:40PM-6:55PM</value>
+            <value>5:40PM-6:55PM</value>
+            <value>11:40AM-12:55PM</value>
+            <value>5:40PM-6:55PM</value>
+            <value>2:40PM-3:55PM</value>
+            <value>1:10PM-2:25PM</value>
+            <value>10:10AM-11:25AM</value>
+            <value> </value>
+            <value> </value>
+            <value> </value>
+            <value>1:10PM-3:40PM</value>
+            <value>4:10PM-5:25PM</value>
+            <value>10:10AM-11:25AM</value>
+            <value>1:10PM-2:25PM</value>
+            <value>10:10AM-11:25AM</value>
+            <value>2:40PM-3:55PM</value>
+            <value>2:40PM-3:55PM</value>
+            <value>1:10PM-2:25PM</value>
+            <value>2:40PM-3:55PM</value>
+            <value>11:40AM-12:55PM</value><value>7:10PM-8:25PM</value><value>1:10PM-2:25PM</value><value>1:10PM-2:25PM</value><value>11:40AM-12:55PM</value><value> </value><value>4:10PM-5:25PM</value><value>1:10PM-2:25PM</value><value>4:10PM-6:40PM</value><value>7:10PM-8:25PM</value><value>4:10PM-5:25PM</value><value>10:10AM-11:25AM</value><value>11:40AM-12:55PM</value><value>1:10PM-2:25PM</value><value>1:10PM-2:25PM</value><value>4:10PM-6:00PM</value><value> </value><value>2:40PM-3:55PM</value><value>4:10PM-5:25PM</value><value>2:10PM-4:00PM</value><value>1:10PM-2:25PM</value><value>11:40AM-12:55PM</value><value> </value><value> </value><value> </value><value> </value><value>4:10PM-6:00PM</value><value>6:10PM-8:00PM</value><value>2:40PM-3:55PM</value><value>7:00PM-9:30PM</value><value>10:10AM-12:00PM</value><value> </value><value> </value><value> </value>
+        </timing>
+
+        <date>
+            <value>MW</value><value>MW</value><value>MW</value><value>MW</value><value>TR</value><value>MW</value><value>TR</value><value>TR</value><value>TR</value><value>TR</value><value>MW</value><value>TR</value><value> </value><value> </value><value> </value><value>Tu</value><value>MW</value><value>TR</value><value>TR</value><value>TR</value><value>MW</value><value>TR</value><value>TR</value><value>MW</value><value>TR</value><value>TR</value><value>TR</value><value>MW</value><value>TR</value><value> </value><value>TR</value><value>MW</value><value>We</value><value>TR</value><value>TR</value><value>TR</value><value>TR</value><value>TR</value><value>TR</value><value>We</value><value> </value><value>MW</value><value>TR</value><value>Tu</value><value>TR</value><value>TR</value><value> </value><value> </value><value> </value><value> </value><value>Mo</value><value>Mo</value><value>MW</value><value>Th</value><value>Th</value><value> </value><value> </value>
+            <value> </value>
+        </date>
+
+        <title>
+            <value>Introduction to Information Science</value>
+            <value>Introduction To Computer  Science And Programming In Java</value>
+            <value>Introduction To Computer Science and Programming In MATLAB</value>
+            <value>INTRO TO COMP FOR ENG/APP SCI</value><value>HONORS INTRO TO COMPUTER SCI</value><value>Data Structures in Java</value><value>ESSENTIAL DATA STRUCTURES IN C/C++</value><value>Advanced Programming</value><value>Discrete Mathematics: Introduction To Combinatorics and Graph Theory</value><value>Computational Linear Algebra</value><value>Computer Science Theory</value><value>Fundamentals of Computer Systems</value><value>Undergraduate Thesis</value><value>Undergraduate Projects In Computer Science</value><value>Biotechnology</value><value>Introduction to Databases</value><value>Programming Languages and Translators</value><value>Operating Systems, I</value><value>Computer Networks</value><value>Advanced Software Engineering</value><value>Advanced Computer Graphics</value><value>Animation</value><value>User Interface Design</value><value>Security Architecture and Engineering</value><value>Analysis of Algorithms I</value><value>Introduction To Computational Complexity</value><value>Numerical Algorithms and Complexity</value><value>Introduction to Computational Learning Theory</value><value>Introduction To Cryptography</value><value>VLSI Circuits</value><value>Computer Hardware Design</value><value>Programming and Problem Solving</value><value>Principles of Innovation and Entrepreneurship (co-instructor: William Reinisch)</value><value>Artificial Intelligence</value><value>Natural Language Processing</value><value>Computer Vision</value><value>Computational Aspects of Robotics</value><value>Biometrics</value><value>Machine Learning</value><value>Advanced Machine Learning</value><value>Projects In Computer Science</value><value>Special Topics In Computer Science, I (Distributed Sys Fundament)</value><value>Special Topics In Computer Science, I (Internet Tech Econ Policy)</value><value>Reliable Software</value><value>Biometrics</value><value>System-on-Chip Platforms</value><value>Tpc: Big Data Analytics</value><value>Tutorial In Computer Science</value><value>Projects In Computer Science</value><value>Thesis</value><value>Topics In Computer Science, I (Adv Tpcs Prog Lang Comp)</value><value>Topics In Computer Science, I (Social Networks)</value><value>Topics In Computer Science, I (Adv Sem Computational Gen)</value><value>Topics In Computer Science, I (Fund Speech Recognition)</value><value>Topics In Computer Science, I (Modern Internet App Devel)</value><value>Directed Research in Computer Science</value><value>Graduate Research, I</value><value>Graduate Research, II</value>
+        </title>
+    </item>
+</items>
